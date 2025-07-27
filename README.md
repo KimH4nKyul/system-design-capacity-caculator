@@ -214,4 +214,17 @@ npm run build
 - Original blog post by [ievolved](https://dev.to/ievolved) on capacity calculation methodology
 - React community for excellent development tools and patterns
 
+---
+
+## 👨‍💻 Author
+
+**Tether Kim** (김한결)
+
+A passionate engineer with 3 years and 3 months of experience as a Research Engineer and Backend Engineer. Currently taking a career break and exploring new opportunities in system design and software architecture.
+
+**Connect with me:**
+- 🧵 Threads: [@ki.man.kyul](https://www.threads.com/@ki.man.kyul)
+
+*"Building tools that help developers make better engineering decisions"*
+
 
